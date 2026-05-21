@@ -1,5 +1,5 @@
 displayName = 旧神之猎完全汉化mod
-author = Deer
-version = 0.0.1
+author = Deer, Pudd1ng
+version = 1.0
 modReferences = CalamityHunt
-sortAfter = CalamityHunt
+sortAfter = CalamityHunt, CalamityCN, CalamityMod, CalamityModMusic
