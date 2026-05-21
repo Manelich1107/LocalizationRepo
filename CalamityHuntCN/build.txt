@@ -1,0 +1,5 @@
+displayName = 旧神之猎完全汉化mod
+author = Deer
+version = 0.0.1
+modReferences = CalamityHunt
+sortAfter = CalamityHunt

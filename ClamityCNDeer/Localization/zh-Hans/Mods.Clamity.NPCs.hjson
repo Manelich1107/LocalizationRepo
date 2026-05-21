@@ -1,0 +1,51 @@
+ClamitasBoss: {
+	DisplayName: 至尊巨蛤-蛤拉米塔斯
+	Bestiary: 被至尊灾厄诅咒的巨蛤，它吸收了硫磺火的力量。那颗来自海洋的珍珠已经没有能量了，没有哪个坏蛋能抵挡蛤拉米塔斯的力量
+
+	BossChecklistIntegration: {
+		SpawnInfo: 在硫火地狱使用 [i:Clamity/ClamitasSummoningItem]
+		DespawnMessage: "[c/FFD700:至尊巨蛤-蛤拉米塔斯回归并隐匿于它的巢穴.]"
+	}
+}
+
+PyrogenBoss: {
+	DisplayName: 热源之灵
+	Bestiary: 由无名铁匠铸造的神秘熔炉，富含火焰精华。"超过1000度！"
+
+	BossChecklistIntegration: {
+		SpawnInfo: 在沙漠使用 [i:Clamity/PyroKey]
+		DespawnMessage: "[c/FFD700:热源之灵再次回到灼热的湖中]"
+	}
+}
+
+Stupid.DisplayName: 至尊究极超级无敌的至尊灾厄
+StormElemental.DisplayName: 风暴元素
+PyrogenShield.DisplayName: 热源之盾
+WallOfBronzeTorret.DisplayName: 青铜炮塔
+WallOfBronzeLaser.DisplayName: 青铜激光机器
+WallOfBronzeClaw.DisplayName: 青铜之爪
+
+WallOfBronze: {
+	DisplayName: 青铜壁垒
+	Bestiary: 古老的机器，守护着比血肉之墙更强大的精华。其中一种精华可以冻结像地下世界这样最热的地方
+
+	BossChecklistIntegration: {
+		SpawnInfo: 在地狱右键点击 [i:Clamity/AncientConsole] 或使用 [i:Clamity/WoBSummonItem]
+		DespawnMessage: "[c/FFD700:古老的巨大机器继续它无尽的地狱之旅.]"
+	}
+}
+
+ClockworkBat: {
+	DisplayName: 发条蝙蝠
+	Bestiary: 原本从属于青铜之墙的独立个体，在击败青铜之墙后失控。
+}
+
+GlacialSlime: {
+	DisplayName: 寒狱史莱姆
+	Bestiary: 由强大的寒霜之魂提供能量的熔岩史莱姆。它试图爆炸，但温差使他的尝试变成了刺状
+}
+
+MetalMaw.DisplayName: 金属巨颚
+MechanicalLeechTail.DisplayName: 机械水蛭
+MechanicalLeechHead.DisplayName: 机械水蛭
+MechanicalLeechBody.DisplayName: 机械水蛭

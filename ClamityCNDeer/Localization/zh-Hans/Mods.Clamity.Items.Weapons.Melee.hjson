@@ -1,0 +1,55 @@
+ClamitasCrusher: {
+	DisplayName: 灾蛤蚌锤
+	Tooltip:
+		'''
+		发射中等大小的蛤蚌，在短时间内击晕敌人
+		发射过程和击中敌人时产生追踪的硫磺火飞弹
+		受到重力影响，飞行一段时间后伤害更高
+		'''
+}
+
+SearedShredder: {
+	DisplayName: 焦炭粉碎者
+	Tooltip: 发射追踪的火焰镰刀
+}
+
+RGBMurasama: {
+	DisplayName: 鬼妖村正
+	Tooltip:
+		'''
+		这把高频率的刀甚至能将最强大的敌人一扫而空
+		第三次挥砍将造成巨大伤害
+		通过杀死神明吞噬者来证明你配得上他
+		'我花了3000刀'
+		'''
+}
+
+Disease: {
+	DisplayName: 疟病
+	Tooltip: 击中时释放瘟疫搜寻者
+}
+
+WulfrumLeechDagger: {
+	DisplayName: 钨钢汲血刃
+	Tooltip:
+		'''
+		命中敌人时，汲取其少量生命值
+		无法触发暴击
+		短按攻击键时，进入1 秒无法被消耗状态
+		'''
+}
+
+FrozenVolcano: {
+	DisplayName: 冰火山
+	Tooltip: 发射火焰
+}
+
+Everest: {
+	DisplayName: 至高峰
+	Tooltip: 发射一片火山火球
+}
+
+Hyperion: {
+	DisplayName: 至高天
+	Tooltip: 一剑开天，所向披靡
+}

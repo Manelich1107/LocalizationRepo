@@ -1,0 +1,88 @@
+Foods: {
+	AuricApple: {
+		DisplayName: 圣金苹果
+		Tooltip:
+			'''
+			一小时内提升全属性
+			'害，今天脑子都快锈掉了，居然把“圣金源魂”看成“圣金源果”了。' - YuH
+			'''
+	}
+
+	ExoBaguette: {
+		DisplayName: 星流法棍
+		Tooltip:
+			'''
+			所有属性大幅提升
+			红酒可恢复 250 点生命值，但会使生命再生速度降低2点/秒
+			可以多饮用一种酒
+			'''
+	}
+
+	SoulBaguette: {
+		DisplayName: 灵魂法棍
+		Tooltip:
+			'''
+			所有属性中幅提升
+			红酒可恢复 250 点生命值，但会使生命再生速度降低2点/秒
+			'''
+	}
+
+	Eldercherry: {
+		DisplayName: 接骨木莓
+		Tooltip: 全属性中幅提升
+	}
+
+	EldercherryJuice: {
+		DisplayName: 接骨木莓汁
+		Tooltip: 全属性中幅提升
+	}
+
+	SlagspitterPauldron: {
+		DisplayName: 熔火碎矿肩甲
+		Tooltip: 全属性中幅提升
+	}
+
+	ClamChowder: {
+		DisplayName: 蛤蜊浓汤
+		Tooltip:
+			'''
+			新伊尔梅里斯风格
+			全属性小幅提升
+			'''
+	}
+
+	Barolegs: {
+		DisplayName: 深渊龙虾腿
+		Tooltip:
+			'''
+			全属性获得幅度不等的提升
+			 		击败海洋中的水元素及其守护兽，可提升此物的风味
+			 		击败地牢中的幽冥魔物，能让风味更上一层楼
+			 		“这肉看着像是取自深渊龙虾！
+			 		不过横竖都一样——反正已经彻底腐坏了”
+			'''
+	}
+
+	Calamitea: {
+		DisplayName: 灾厄茶
+		Tooltip:
+			'''
+			相当灾厄的茶
+			全属性大幅提升
+			'''
+	}
+}
+
+SupremeLuckPotion: {
+	DisplayName: 至尊幸运药水
+	Tooltip: 获得无与伦比的幸运
+}
+
+TitanScalePotion: {
+	DisplayName: 泰坦鳞片药水
+	Tooltip:
+		'''
+		提升击退，防御力提升5点，伤害减免提升5%
+		真近战攻击后几秒内防御力提升20点，伤害减免提升5%
+		'''
+}

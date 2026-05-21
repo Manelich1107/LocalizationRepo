@@ -1,0 +1,9 @@
+PyrogenBag: {
+	Tooltip: 右击以打开
+	DisplayName: 宝藏袋 (炎热之灵)
+}
+
+WoBTreasureBag: {
+	Tooltip: 右击以打开
+	DisplayName: 宝藏袋 (青铜壁垒)
+}

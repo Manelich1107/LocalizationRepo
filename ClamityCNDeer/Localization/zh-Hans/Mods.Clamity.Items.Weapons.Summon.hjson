@@ -1,0 +1,23 @@
+HellstoneShellfishStaff: {
+	DisplayName: 灾蛤法杖
+	Tooltip:
+		'''
+		召唤一个迷你灾蛤保护你
+		每一个扇贝都消耗两个召唤栏
+		'''
+}
+
+HellsBells: {
+	DisplayName: 地狱之铃
+	Tooltip: 召唤一个跟随鼠标的黑曜石铃
+}
+
+PlanterrorStaff: {
+	DisplayName: 世纪枪花法杖
+	Tooltip:
+		'''
+		召唤一个迷你世纪枪花保护你
+		子弹类型取决于玩家当前的弹药类型
+		占用4个召唤栏且只能召唤一个
+		'''
+}

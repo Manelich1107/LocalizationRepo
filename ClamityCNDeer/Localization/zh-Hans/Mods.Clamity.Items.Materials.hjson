@@ -1,0 +1,39 @@
+HuskOfCalamity: {
+	DisplayName: 灾蛤贝壳
+	Tooltip: 地狱软体动物的残骸
+}
+
+ClamitousPearl: {
+	DisplayName: 至尊珍珠
+	Tooltip: “蚌” 视群雄的时候到了！
+}
+
+CoreOfFlame: {
+	DisplayName: 火焰核心
+	Tooltip: ""
+}
+
+EssenceOfFlame: {
+	DisplayName: 火焰精华
+	Tooltip: 来自炎热地区的生物的精华
+}
+
+EnchantedMetal: {
+	DisplayName: 寒狱锭
+	Tooltip: 注入泰拉瑞亚的灵魂
+}
+
+MetalFeather: {
+	Tooltip: ""
+	DisplayName: 金属羽毛
+}
+
+RarePlanteraFruit: {
+	DisplayName: 稀有世纪之花果实
+	Tooltip: ""
+}
+
+CoralskinFoolfish: {
+	DisplayName: 珊瑚皮愚鱼
+	Tooltip: 伪装是大自然最好的防御手段之一
+}

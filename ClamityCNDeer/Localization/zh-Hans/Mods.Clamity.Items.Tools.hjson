@@ -1,0 +1,20 @@
+LargeFather: {
+	Tooltip: 像激光钻头一样，不过它的激光和青铜壁垒的激光一样强哦！
+	DisplayName: 青铜激光钻头
+}
+
+TheWOBbler: {
+	Tooltip: 右键射出大量碎冰
+	DisplayName: 摇摆者
+}
+
+RealityRelocator: {
+	DisplayName: 现实迁移器
+	Tooltip:
+		'''
+		按下 [KEY] 传送至鼠标所在位置
+		传送后 30 帧内下落速度翻倍
+		在物品栏中也可使用
+		“咫尺天涯，转瞬即至”
+		'''
+}

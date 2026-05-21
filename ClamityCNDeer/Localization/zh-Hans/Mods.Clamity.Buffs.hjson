@@ -1,0 +1,49 @@
+SupremeLucky: {
+	DisplayName: 超级幸运
+	Description: 你感觉你幸运极了
+}
+
+HellstoneShellfishStaffBuff: {
+	DisplayName: 狱石扇贝
+	Description: 狱石扇贝将保护你
+}
+
+HellsBellsBuff: {
+	Description: 地狱之铃会保护你的
+	DisplayName: 地狱之铃
+}
+
+WarCleave: {
+	Description: 战争劈砍
+	DisplayName: 战争劈砍
+}
+
+ExoBaguetteBuff: {
+	DisplayName: 星流法棍
+	Description: "[c/04c000:'你好星流' ~WitherTaco]"
+}
+
+BrimChairBuff: {
+	DisplayName: 硫火王座
+	Description: 乘坐一把违反物理定律的电竞椅
+}
+
+PlagueChairBuff: {
+	DisplayName: 瘟疫王座
+	Description: 乘坐一把违反物理定律的电竞椅
+}
+
+PlanterrorStaffBuff: {
+	DisplayName: 世纪枪花
+	Description: 说到枪与玫瑰，我说得对吧？
+}
+
+HeavyMetalTrashCanBuff: {
+	DisplayName: 迷你波奇
+	Description: 后藤一里正在跟随你
+}
+
+TitanScalePotionBuff: {
+	DisplayName: 泰坦鳞片
+	Description: 你感觉自己很肉
+}

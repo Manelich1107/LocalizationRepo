@@ -1,0 +1,49 @@
+ClamitasSummoningItem: {
+	DisplayName: 狱火夹贝
+	Tooltip:
+		'''
+		在硫火地狱使用以召唤至尊巨蛤
+		不消耗
+		'''
+}
+
+EyeofStupidity: {
+	DisplayName: 愚钝之眼
+	Tooltip:
+		'''
+		召唤至尊究极超级无敌的至尊灾厄
+		你好, AdamChromeE
+		'''
+}
+
+PyroKey: {
+	DisplayName: 极热之钥
+	Tooltip:
+		'''
+		在沙漠中使用时召唤热源之灵
+		右击召唤没有召唤动画
+		在沙漠外会狂暴
+		不消耗
+		'一把用以打开古老熔炉的钥匙'
+		'''
+}
+
+AncientConsole: {
+	DisplayName: 古老的控制台
+	Tooltip:
+		'''
+		右键点击方块召唤青铜壁垒
+		仅在地狱中生效
+		离开地狱后青铜壁垒会消失
+		警告：如果你在多人游戏中，请使用青铜运作装置召唤青铜壁垒（该道具现已可通过合成获得）
+		'''
+}
+
+WoBSummonItem: {
+	Tooltip:
+		'''
+		在地狱召唤青铜壁垒
+		不消耗
+		'''
+	DisplayName: 青铜运作装置
+}

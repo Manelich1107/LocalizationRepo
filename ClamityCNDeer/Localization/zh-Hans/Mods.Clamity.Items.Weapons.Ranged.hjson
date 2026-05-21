@@ -1,0 +1,29 @@
+DepthsEchoRifle: {
+	DisplayName: 渊狱回声
+	Tooltip: 把火枪子弹转化为硫磺火飞弹
+}
+
+Obsidigun: {
+	DisplayName: 黑曜石枪
+	Tooltip: 将火枪子弹转换成快速移动的黑曜石子弹，在击中时破碎成许多碎片
+}
+
+RoseBow: {
+	DisplayName: 蝴蝶与玫瑰
+	Tooltip:
+		'''
+		“即使你看不见我，即使你听不见我，我也一直会在你身边”
+		射出一束箭和追踪的花瓣
+		'''
+}
+
+WitheredBoneBow: {
+	DisplayName: 枯萎灾祸
+	Tooltip:
+		'''
+		将木箭转换为枯萎骨箭
+		箭矢击中时最多在玩家身后复制两次
+		箭矢会施加枯萎效果并具有15点护甲穿透
+		'我是不是听到有人说玉米卷？'
+		'''
+}

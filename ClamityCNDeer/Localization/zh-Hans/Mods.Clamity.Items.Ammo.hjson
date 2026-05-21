@@ -1,0 +1,26 @@
+Dart: {
+	ProfanedDart: {
+		DisplayName: 渎神飞镖
+		Tooltip:
+			'''
+			在敌人之间跳跃
+			击中时爆炸
+			'''
+	}
+}
+
+Arrow: {
+	// A: a
+
+	FrostfireArrow: {
+		DisplayName: 寒狱之矢
+		Tooltip: 击中时爆炸
+	}
+}
+
+Solution: {
+	CyanSolution: {
+		DisplayName: 青色溶液
+		Tooltip: 在地狱使用可扩展冰狱
+	}
+}

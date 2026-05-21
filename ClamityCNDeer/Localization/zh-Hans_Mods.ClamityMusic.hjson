@@ -1,0 +1,91 @@
+//This music box contains a placeholder song
+Items: {
+	Placeables: {
+		MusicBoxes: {
+			ClamityTitleMusicBox: {
+				Tooltip: 播放 Sidetracker 的"unnamed theme（无名主题曲）"
+				DisplayName: 音乐盒（灾蛤主题曲）
+			}
+
+			ClamitasMusicBox: {
+				Tooltip: 播放 StarvoXD 的"clamitas theme（灾蛤主题曲）"
+				DisplayName: 音乐盒（至尊巨蛤-蛤拉米塔斯）
+			}
+
+			PyrogenMusicBox: {
+				Tooltip: 播放 Brimston Premium 的"Searing Ferocity（炽热凶暴）"
+				DisplayName: 音乐盒（热源之灵）
+			}
+
+			AcidRainT2MusicBox: {
+				Tooltip: 播放 AstroGel 的"Sulfuric Cloudbrust（硫酸云爆）"
+				DisplayName: 音乐盒（二阶酸雨）
+			}
+
+			WoBMusicBox: {
+				DisplayName: 音乐盒（青铜之墙）
+				Tooltip:
+					'''
+					"此音乐盒包含一个临时音乐"
+					播放 Perturbator 的"Diabolus Ex Machina（机械恶魔）"
+					'''
+			}
+
+			FrozenHellMusicBox: {
+				DisplayName: 音乐盒（冰冻地狱）
+				Tooltip:
+					'''
+					"此音乐盒包含一个临时音乐"
+					播放 Soundbin 的"Alternative Underworld theme（另类地狱主题）"
+					'''
+			}
+
+			PyrogenGFBMusicBox: {
+				DisplayName: 音乐盒（极地之灵？）
+				Tooltip: 播放 Brimston Premium 的"Antarctic Ferocity（南极凶暴）"
+			}
+		}
+	}
+}
+
+Tiles: {
+	GiantClamMusicBoxTile.MapEntry: 巨蛤音乐盒
+	ClamityTitleMusicBoxTile.MapEntry: 灾蛤主题音乐盒
+	ClamitasMusicBoxTile.MapEntry: 蛤拉米塔斯音乐盒
+	PyrogenMusicBoxTile.MapEntry: 热源之灵音乐盒
+}
+
+Configs: {
+	ClamityMusicConfig: {
+		DisplayName: 灾蛤音乐配置
+
+		PyrogenPrototypeTheme: {
+			Label: 热源之灵原型主题
+			Tooltip: ""
+		}
+
+		UsesT2AcidRainTheme: {
+			Label: 使用二阶酸雨主题
+			Tooltip: ""
+		}
+	}
+
+	PyroMusic: {
+		Tooltip: ""
+
+		CryogenPlaceholder: {
+			Label: 热源之灵
+			// Tooltip: ""
+		}
+
+		AstroGels: {
+			Label: 星体凝胶
+			// Tooltip: ""
+		}
+
+		BrimstonePremiums: {
+			Label: 硫磺精华
+			// Tooltip: ""
+		}
+	}
+}

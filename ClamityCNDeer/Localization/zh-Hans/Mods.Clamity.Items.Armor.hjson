@@ -1,0 +1,79 @@
+Clamitas: {
+	ClamitasShelleggings: {
+		DisplayName: 灾蛤硬壳护胫
+		Tooltip: 提升13%伤害与5%暴击率
+	}
+
+	ClamitasShellmet: {
+		DisplayName: 灾蛤硬壳贝盔
+		Tooltip:
+			'''
+			提升6%伤害与5%暴击率
+			周期性地落下棱晶碎片，可以短暂地击晕敌人
+			'''
+		SetBonus:
+			'''
+			3只硫磺夹贝会出现在你的身边
+			+4最大召唤栏
+			'''
+	}
+
+	ClamitasShellplate: {
+		DisplayName: 灾蛤硬壳贝甲
+		Tooltip:
+			'''
+			提升12%伤害与7%暴击率
+			光环内的敌人会被减速
+			该效果不会在Boss存活期间生效
+			在深渊中提供微量光照
+			'''
+	}
+}
+
+Vanity: {
+	PyrogenMask: {
+		Tooltip: ""
+		DisplayName: 热源之灵面具
+	}
+
+	WoBMask: {
+		Tooltip: ""
+		DisplayName: 青铜壁垒面具
+	}
+}
+
+FrozenHellstone: {
+	FrozenHellstoneVisor: {
+		Tooltip:
+			'''
+			提升20%真近战伤害
+			真近战攻击造成霜火减益
+			敌人更容易将你作为目标
+			'''
+		DisplayName: 寒狱面罩
+		SetBonus:
+			'''
+			免疫冰冻
+			按下套装效果键创建一个可以格挡攻击的冰盾
+			格挡失败会导致你过度冷却
+			'''
+	}
+
+	FrozenHellstoneGreaves: {
+		Tooltip:
+			'''
+			提升20%真近战伤害和75点最大生命值
+			敌人更容易将你作为目标
+			'''
+		DisplayName: 寒狱护胫
+	}
+
+	FrozenHellstoneChestplate: {
+		Tooltip:
+			'''
+			提升20%真近战伤害和20%近战速度
+			敌人更容易将你作为目标
+			'''
+		DisplayName: 寒狱胸甲
+	}
+}

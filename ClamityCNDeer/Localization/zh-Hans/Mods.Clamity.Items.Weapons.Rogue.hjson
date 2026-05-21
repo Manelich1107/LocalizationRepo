@@ -1,0 +1,51 @@
+MoltenPiercer: {
+	DisplayName: 熔融穿刺者
+	Tooltip:
+		'''
+		扔出一把燃烧的匕首
+		匕首在潜伏攻击时制造燃烧的黑曜石碎片
+		'''
+}
+
+WulfrumShockCutter: {
+	DisplayName: 钨钢震击刃
+	Tooltip: ""
+}
+
+FrozenStarShuriken: {
+	DisplayName: 寒狱手里剑
+	Tooltip:
+		'''
+		击中时创造追踪的雾气弹
+		潜伏攻击时产生更多雾气弹
+		'''
+}
+
+ExoBall: {
+	DisplayName: 星流尖钉
+	Tooltip:
+		'''
+		投掷最多10个快速追踪的尖钉球
+		附着在敌人身上并召唤局部的星流光束风暴
+		潜伏攻击时追踪速度更快并以更快的速度召唤光束
+		按下<right>删除所有存在的尖钉球
+		'''
+}
+
+AuricKunai: {
+	DisplayName: 圣金源苦无
+	Tooltip:
+		'''
+		发射一连串短程苦无
+		潜伏攻击时向最近的敌人发射5道闪电
+		'''
+}
+
+StarfishFromTheDepth: {
+	DisplayName: 深渊海星
+	Tooltip:
+		'''
+		海星会追踪最近的敌人，最多可命中5次
+		潜伏攻击会同时创造三个海星
+		'''
+}

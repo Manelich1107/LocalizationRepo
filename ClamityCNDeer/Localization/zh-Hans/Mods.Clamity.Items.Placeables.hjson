@@ -1,0 +1,48 @@
+Relics: {
+	PyrogenRelic: {
+		DisplayName: 热源之灵圣物
+		Tooltip: ""
+	}
+
+	ClamitasRelic: {
+		DisplayName: 至尊巨蛤圣物
+		Tooltip: 用狱石制成
+	}
+
+	WoBRelic: {
+		DisplayName: 青铜壁垒圣物
+		Tooltip: ""
+	}
+}
+
+Trophies: {
+	PyrogenTrophy: {
+		Tooltip: ""
+		DisplayName: 热源之灵面具
+	}
+
+	WoBTrophy: {
+		Tooltip: ""
+		DisplayName: 青铜壁垒面具
+	}
+}
+
+FrozenHellstone: {
+	Tooltip: ""
+	DisplayName: 冰封狱石
+}
+
+FrozenAsh: {
+	Tooltip: ""
+	DisplayName: 寒霜灰烬
+}
+
+PyroplateWall: {
+	Tooltip: ""
+	DisplayName: 热源墙
+}
+
+Pyroplate: {
+	Tooltip: 它与超凡脱俗的能量产生共鸣
+	DisplayName: 热源石
+}

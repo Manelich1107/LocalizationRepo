@@ -1,0 +1,91 @@
+Melee: {
+	ClamitasCrusherProjectile.DisplayName: 蛤拉米塔斯粉碎者
+	SearedShredderProjectile.DisplayName: 灼热碎裂者
+	RGBMurasamaProjectile.DisplayName: 鬼妖村正
+	DiseaseProjectile.DisplayName: 疟病
+	WulfrumLeechDaggerProjectile.DisplayName: 钨钢汲血刃
+	WulfrumLeechDaggerShard.DisplayName: 钨钢汲血刃碎片
+	TheWOBblerProjectile.DisplayName: 摇摆者
+	EverestProjectile.DisplayName: 至高峰
+	ExoNewBeam.DisplayName: 星流射线
+	ExoNewExplosion.DisplayName: 星流爆破
+	EtherealKnivesProjectile.DisplayName: 虚空洪流
+	HyperionProjectile.DisplayName: 亥伯龙弹幕
+}
+
+Ranged: {
+	Ammo: {
+		ProfanedDartProjectile.DisplayName: 亵渎飞镖
+		FrostfireArrowProj.DisplayName: 霜火箭矢
+		FrostfireArrowProj2.DisplayName: 霜火爆炸
+	}
+
+	DepthsEchoRifleProjectile.DisplayName: 深渊回声
+	DepthsEchoRifleProjectileSplit.DisplayName: 深渊回声分裂
+	ObsidigunBullet.DisplayName: 黑曜石子弹
+	ObsidigunBulletShard.DisplayName: 黑曜石子弹碎片
+	WitheredBoneBowProj.DisplayName: 枯萎骨箭
+}
+
+Magic: {
+	TheGeneratorSigil.DisplayName: 引力制造者符印
+	MoonstoneKnifeProjectile.DisplayName: 月光石飞刀
+	UnicronBeam.DisplayName: 宇宙大帝射线
+	UnicronWingmanGrenade.DisplayName: 宇宙大帝僚机手雷
+	UnicronWingmanShot.DisplayName: 宇宙大帝僚机冲击弹
+}
+
+Summon: {
+	Minion: {
+		HellstoneShellfishStaffMinion.DisplayName: 狱石贝类
+		HellsBellsSummon.DisplayName: 地狱之钟
+		PlanterrorStaffSummon.DisplayName: 世纪枪花
+	}
+
+	HellsBellsRing.DisplayName: 地狱之钟音效
+	PlanterrorStaffTentacle.DisplayName: 世纪枪花之枪
+}
+
+Rogue: {
+	MoltenPiercerProjectile.DisplayName: 熔岩穿刺者
+	WulfrumShockCutterProjectile.DisplayName: 钨钢震击切割者
+	DraculasCharmProj.DisplayName: 德古拉
+	FrozenStarShurikenProjectile.DisplayName: 冰冻星手里剑
+	ExoBallProjectile.DisplayName: EXO球
+	AuricKunaiProjectile.DisplayName: 圣金苦无
+	AuricKunaiLightning.DisplayName: 圣金闪电
+	StarfishFromTheDepthProj.DisplayName: 深渊海星
+}
+
+Classless: {
+	PyroShieldAccessory.DisplayName: 烈焰护盾
+	AMSProj.DisplayName: AMS投射物
+	EyeOfNovaProjectile.DisplayName: 新星爆炸
+	TrashOfMagnusProjectile.DisplayName: 瘟疫弹
+	SharpAmethystProj.DisplayName: 锋锐紫晶
+	GoldenGunProj.DisplayName: 黄金流
+}
+
+Boss: {
+	BrimstonePearlBurst.DisplayName: 硫火珍珠爆炸
+	Fireblast.DisplayName: 热源爆破
+	FireBarrage.DisplayName: 热源弹
+	FireBarrageHoming.DisplayName: 追踪热源弹
+	FireBomb.DisplayName: 热源爆弹
+	FireBombExplosion.DisplayName: 火焰爆破
+	Firethrower.DisplayName: 熔炉之焰
+	PyrogenKillExplosion.DisplayName: 热源之灵爆破
+	WallOfBronzeTorretBlast.DisplayName: 等离子爆炸
+	WallOfBronzeLaserBeamStart.DisplayName: 等离子光束
+	WallOfBronzeClawProjectile.DisplayName: 青铜之爪
+	WoBDeathrayStart.DisplayName: 等离子死亡射线
+}
+
+ShortstrikeEffect.DisplayName: 短剑攻击效果
+WulfrumLureBobber.DisplayName: 钨钢诱饵浮标
+CrustallineProjecile.DisplayName: 结晶体
+SoulOfPyrogenSpear.DisplayName: 焰祖之魂矛
+PyrogenSummonAnimation.DisplayName: 焰祖召唤动画
+CyanSolutionProjectile.DisplayName: 青色溶液
+HeavyMetalTrashCanPet.DisplayName: 迷你波奇
+AncientConsoleProjectile.DisplayName: 古老的控制台弹幕

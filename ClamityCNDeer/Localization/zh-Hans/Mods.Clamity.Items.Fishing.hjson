@@ -1,0 +1,17 @@
+WulfrumLure: {
+	DisplayName: 至尊钨钢钓竿
+	Tooltip:
+		'''
+		可同时抛出3根鱼线
+		按下右键，消耗能源核心[i:CalamityMod/EnergyCore]为钓竿充能
+		充能状态下，可同时抛出7根鱼线，且钓鱼能力提升至70%
+		充能后的钓竿仅可使用 10 次
+		[c/83B87E:“就一块破铜烂铁而言，这玩意儿结实得离谱！]
+		[c/83B87E:“…… 不过他的肉身可就没这么耐造了。”]
+		'''
+}
+
+FishOfFlame: {
+	Tooltip: 右键点击以提取精华
+	DisplayName: 火海鱼
+}

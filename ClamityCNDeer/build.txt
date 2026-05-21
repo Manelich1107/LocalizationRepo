@@ -1,0 +1,8 @@
+displayName = Clamity(灾蛤)汉化包
+author = Deer
+version = 5.1.8
+modReferences = Clamity, ClamityMusic
+hideResources = true
+translationMod = true
+side = NoSync
+sortAfter = Clamity, ClamityMusic

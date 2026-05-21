@@ -1,0 +1,16 @@
+Cooldowns: {
+	ShortstrikeCooldown: 短剑冷却
+	ShortstrikeCharge: 短剑充能
+	PyrospearCooldown: 焰矛冷却
+}
+
+Enchantments: {
+	AflameAcc: {
+		DisplayName: 五彩缤纷
+		Description:
+			'''
+			当敌人被击中时，使用至尊女巫的力量点燃敌人，但当佩戴该道具时，也会使使用者受到伤害。
+			附注:并不是所有的装备都适用这个魔法
+			'''
+	}
+}

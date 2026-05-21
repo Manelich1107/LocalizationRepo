@@ -1,0 +1,14 @@
+该模组的作者选择不包含模组源代码。
+文件:
+CalamityHuntCN.dll
+You can find this mod's .dll files under C:\Users\Sonotendoka\Documents\My Games\Terraria\tModLoader\ModSources\ModAssemblies for easy mod collaboration!
+CalamityHuntCN.pdb
+build.txt
+description.txt
+icon.png
+Properties/launchSettings.json
+Localization/en-US_Mods.CalamityHuntCN.hjson
+Localization/zh-Hans_Mods.CalamityHuntCN.hjson
+Localization/zh-Hans/zh-Hans_Mods.CalamityHunt.Items.ChromaticDye.hjson
+Localization/zh-Hans/zh-Hans_Mods.CalamityHunt.NPCs.Goozma.Titles.hjson
+Localization/zh-Hans/zh-Hans_Mods.CalamityHunt.hjson

@@ -1,0 +1,30 @@
+OmegaRay: {
+	DisplayName: 欧米伽射线
+	Tooltip: 用五发Y型能量束和激光瓦解一切
+}
+
+Unicron: {
+	DisplayName: 宇宙大帝
+	Tooltip:
+		'''
+		持续发射激光阵列，并召唤四架僚机环绕自身，僚机会朝光标位置发射激光或投掷手雷
+		发射状态下按下右键，可释放一道击中敌人便会分裂的欧米伽光束
+		释放欧米伽光束后，僚机将同步投掷两枚手雷
+		光束射出的瞬间命中敌人，将大幅提升伤害，且光束不会发生分裂
+		'''
+}
+
+TheGenerator: {
+	DisplayName: 引力制造者
+	Tooltip: 发射一个缓慢地追踪并吸引附近的敌人的符印
+}
+
+MoonstoneKnives: {
+	DisplayName: 月光石飞刀
+	Tooltip: 投掷几把飞刀，恢复使用者的魔法
+}
+
+EtherealKnives: {
+	DisplayName: 虚空飞刀
+	Tooltip: 投掷飞刀，命中后可恢复使用者的魔力值
+}
