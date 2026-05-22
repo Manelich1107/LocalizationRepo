@@ -14,13 +14,13 @@ SearedShredder: {
 }
 
 RGBMurasama: {
-	DisplayName: 鬼妖村正
+	DisplayName: RGB鬼妖村正
 	Tooltip:
 		'''
 		这把高频率的刀甚至能将最强大的敌人一扫而空
 		第三次挥砍将造成巨大伤害
 		通过杀死神明吞噬者来证明你配得上他
-		'我花了3000刀'
+		“我花了3000刀”
 		'''
 }
 
@@ -31,16 +31,11 @@ Disease: {
 
 WulfrumLeechDagger: {
 	DisplayName: 钨钢汲血刃
-	Tooltip:
-		'''
-		命中敌人时，汲取其少量生命值
-		无法触发暴击
-		短按攻击键时，进入1 秒无法被消耗状态
-		'''
+	Tooltip: 命中时释放一块钨钢金属碎片
 }
 
 FrozenVolcano: {
-	DisplayName: 冰火山
+	DisplayName: 冰封火山
 	Tooltip: 发射火焰
 }
 
@@ -50,6 +45,6 @@ Everest: {
 }
 
 Hyperion: {
-	DisplayName: 至高天
-	Tooltip: 一剑开天，所向披靡
+	DisplayName: 高天行者
+	Tooltip: ""
 }

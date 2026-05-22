@@ -1,7 +1,7 @@
 Melee: {
 	ClamitasCrusherProjectile.DisplayName: 蛤拉米塔斯粉碎者
 	SearedShredderProjectile.DisplayName: 灼热碎裂者
-	RGBMurasamaProjectile.DisplayName: 鬼妖村正
+	RGBMurasamaProjectile.DisplayName: RGB鬼妖村正
 	DiseaseProjectile.DisplayName: 疟病
 	WulfrumLeechDaggerProjectile.DisplayName: 钨钢汲血刃
 	WulfrumLeechDaggerShard.DisplayName: 钨钢汲血刃碎片
@@ -33,6 +33,8 @@ Magic: {
 	UnicronBeam.DisplayName: 宇宙大帝射线
 	UnicronWingmanGrenade.DisplayName: 宇宙大帝僚机手雷
 	UnicronWingmanShot.DisplayName: 宇宙大帝僚机冲击弹
+	GaiaRoseBolt.DisplayName: 盖亚的花朵
+	GaiaRoseBoltSmall.DisplayName: 盖亚的花瓣
 }
 
 Summon: {
@@ -57,13 +59,14 @@ Rogue: {
 	StarfishFromTheDepthProj.DisplayName: 深渊海星
 }
 
-Classless: {
-	PyroShieldAccessory.DisplayName: 烈焰护盾
-	AMSProj.DisplayName: AMS投射物
-	EyeOfNovaProjectile.DisplayName: 新星爆炸
-	TrashOfMagnusProjectile.DisplayName: 瘟疫弹
-	SharpAmethystProj.DisplayName: 锋锐紫晶
-	GoldenGunProj.DisplayName: 黄金流
+Typeless: {
+	PyroShieldAccessory.DisplayName: 热源之盾
+	AMSProj.DisplayName: AMS
+	EyeOfNovaProjectile.DisplayName: 新星爆破
+	EyeOfNovaBoom.DisplayName: 新星爆炸
+	TrashOfMagnusProjectile.DisplayName: 瘟疫飞弹
+	SharpAmethystProj.DisplayName: 尖刺水晶
+	GoldenGunProj.DisplayName: 金枪子弹
 }
 
 Boss: {
@@ -79,6 +82,9 @@ Boss: {
 	WallOfBronzeLaserBeamStart.DisplayName: 等离子光束
 	WallOfBronzeClawProjectile.DisplayName: 青铜之爪
 	WoBDeathrayStart.DisplayName: 等离子死亡射线
+	WoBCutsceneBoom.DisplayName: 等离子死亡爆炸
+	WoBCutsceneDrama.DisplayName: 等离子死亡歌剧
+	WoBCutsceneBoomTest.DisplayName: 等离子死亡爆炸测试
 }
 
 ShortstrikeEffect.DisplayName: 短剑攻击效果
@@ -89,3 +95,4 @@ PyrogenSummonAnimation.DisplayName: 焰祖召唤动画
 CyanSolutionProjectile.DisplayName: 青色溶液
 HeavyMetalTrashCanPet.DisplayName: 迷你波奇
 AncientConsoleProjectile.DisplayName: 古老的控制台弹幕
+Classless.PyroShieldAccessory.DisplayName: 烈焰护盾

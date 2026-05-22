@@ -3,8 +3,12 @@ Foods: {
 		DisplayName: 圣金苹果
 		Tooltip:
 			'''
-			一小时内提升全属性
-			'害，今天脑子都快锈掉了，居然把“圣金源魂”看成“圣金源果”了。' - YuH
+			{$CommonItemTooltip.MinorStats}，持续一小时
+			[c/FFBA3A:"]
+			   [c/FFBA3A:害，我的脑子肯定是锈掉了，]
+			   [c/FFBA3A:我把金源魄看成金源果]
+			                                    [c/FFBA3A:"] 
+			                                       [c/FFBA3A:——YuH，灾厄社区混合开发者]
 			'''
 	}
 
@@ -12,42 +16,37 @@ Foods: {
 		DisplayName: 星流法棍
 		Tooltip:
 			'''
-			所有属性大幅提升
-			红酒可恢复 250 点生命值，但会使生命再生速度降低2点/秒
-			可以多饮用一种酒
+			{$CommonItemTooltip.MajorStats}
+			使{$CalamityMod.Buffs.AlcoholPoisoning.DisplayName}的触发阈值提高1
 			'''
 	}
 
 	SoulBaguette: {
 		DisplayName: 灵魂法棍
-		Tooltip:
-			'''
-			所有属性中幅提升
-			红酒可恢复 250 点生命值，但会使生命再生速度降低2点/秒
-			'''
+		Tooltip: "{$CommonItemTooltip.MediumStats}"
 	}
 
 	Eldercherry: {
 		DisplayName: 接骨木莓
-		Tooltip: 全属性中幅提升
+		Tooltip: "{$CommonItemTooltip.MediumStats}"
 	}
 
 	EldercherryJuice: {
 		DisplayName: 接骨木莓汁
-		Tooltip: 全属性中幅提升
+		Tooltip: "{$CommonItemTooltip.MajorStats}"
 	}
 
 	SlagspitterPauldron: {
 		DisplayName: 熔火碎矿肩甲
-		Tooltip: 全属性中幅提升
+		Tooltip: "{$CommonItemTooltip.MajorStats}"
 	}
 
 	ClamChowder: {
 		DisplayName: 蛤蜊浓汤
 		Tooltip:
 			'''
-			新伊尔梅里斯风格
-			全属性小幅提升
+			{$CommonItemTooltip.MediumStats}
+			“新伊尔梅里斯风格”
 			'''
 	}
 
@@ -56,10 +55,10 @@ Foods: {
 		Tooltip:
 			'''
 			全属性获得幅度不等的提升
-			 		击败海洋中的水元素及其守护兽，可提升此物的风味
-			 		击败地牢中的幽冥魔物，能让风味更上一层楼
-			 		“这肉看着像是取自深渊龙虾！
-			 		不过横竖都一样——反正已经彻底腐坏了”
+			击败海洋中的水元素及其守护兽，可提升此物的风味
+			击败地牢中的幽冥魔物，能让风味更上一层楼
+			“这肉看着像是取自深渊龙虾！
+			不过横竖都一样——反正已经彻底腐坏了”
 			'''
 	}
 
@@ -67,8 +66,8 @@ Foods: {
 		DisplayName: 灾厄茶
 		Tooltip:
 			'''
-			相当灾厄的茶
-			全属性大幅提升
+			{$CommonItemTooltip.MajorStats}
+			“相当灾厄的茶”
 			'''
 	}
 }

@@ -1,0 +1,87 @@
+Foods: {
+	AuricApple: {
+		DisplayName: Auric Apple
+		Tooltip:
+			'''
+			{$CommonItemTooltip.MinorStats} for an entire hour
+			[c/FFBA3A:"]
+			 [c/FFBA3A:yeah my brain is rotting from today,]
+			 [c/FFBA3A:I read Auric Soul as Auric Fruit']
+			                                  " 
+			             [c/FFBA3A:- YuH, Calamity Community Remix developer]
+			'''
+	}
+
+	ExoBaguette: {
+		DisplayName: Exo Baguette
+		Tooltip:
+			'''
+			{$CommonItemTooltip.MajorStats}
+			Increases the threshold for {$CalamityMod.Buffs.AlcoholPoisoning.DisplayName} by 1
+			'''
+	}
+
+	SoulBaguette: {
+		DisplayName: Soul Baguette
+		Tooltip: "{$CommonItemTooltip.MediumStats}"
+	}
+
+	Eldercherry: {
+		DisplayName: Eldercherry
+		Tooltip: "{$CommonItemTooltip.MediumStats}"
+	}
+
+	EldercherryJuice: {
+		DisplayName: Eldercherry Juice
+		Tooltip: "{$CommonItemTooltip.MajorStats}"
+	}
+
+	SlagspitterPauldron: {
+		DisplayName: Balanôn itil
+		Tooltip: "{$CommonItemTooltip.MajorStats}"
+	}
+
+	ClamChowder: {
+		DisplayName: Clam Chowder
+		Tooltip:
+			'''
+			{$CommonItemTooltip.MediumStats}
+			'New Ilmeris style'
+			'''
+	}
+
+	Barolegs: {
+		DisplayName: Barolegs
+		Tooltip:
+			'''
+			Varying improvements to all stats
+			Defeat the water elemental found in ocean and her majestic beast to improve its taste
+			Defeat a ghostly foe found in dungeon to improve its taste even further
+			'The meat actually seems to have come from a barocraw!
+			Not that it matters — it's rancid all the same'
+			'''
+	}
+
+	Calamitea: {
+		DisplayName: Calamitea
+		Tooltip:
+			'''
+			{$CommonItemTooltip.MajorStats}
+			'Quite the Calamity'
+			'''
+	}
+}
+
+SupremeLuckPotion: {
+	DisplayName: Supreme Luck Potion
+	Tooltip: Greatly increases the Luck of the user
+}
+
+TitanScalePotion: {
+	DisplayName: Titan Scale Potion
+	Tooltip:
+		'''
+		Increases knockback, defense by 5 and damage reduction by 5%
+		Increases defense by 20 and damage reduction by 5% for a few seconds after a true melee strike
+		'''
+}

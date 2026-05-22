@@ -10,7 +10,7 @@ Dart: {
 }
 
 Arrow: {
-	// A: a
+	A: a
 
 	FrostfireArrow: {
 		DisplayName: 寒狱之矢
@@ -21,6 +21,10 @@ Arrow: {
 Solution: {
 	CyanSolution: {
 		DisplayName: 青色溶液
-		Tooltip: 在地狱使用可扩展冰狱
+		Tooltip:
+			'''
+			供环境改造枪使用
+			蔓延冰封地狱
+			'''
 	}
 }

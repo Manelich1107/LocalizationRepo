@@ -26,6 +26,11 @@ EyeOfNova: {
 		命中时恢复魔力和生命值
 		这个武器会同时受到所有伤害属性加成
 		'''
+	HoldShiftTooltip:
+		'''
+		      命中时施加[cbuff:CalamityMod/MarkedforDeath]、[cbuff:CalamityMod/Vaporfied]、
+		      [cbuff:CalamityMod/MiracleBlight]、[cbuff:Ichor]
+		'''
 }
 
 Celesticus: {
@@ -49,6 +54,6 @@ WitherOnAStick: {
 		可喜可贺，开发者终结了我挚爱的“棒棒独角兽”
 		如今它在我眼中已是形同废铁（寒心冰锥）
 		于是我另起炉灶，重铸新杖
-		—— WitherTaco，极度灾蛤的持有者
+		————WitherTaco，灾蛤的持有者
 		'''
 }

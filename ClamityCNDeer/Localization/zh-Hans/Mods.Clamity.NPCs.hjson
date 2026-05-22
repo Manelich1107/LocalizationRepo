@@ -4,7 +4,7 @@ ClamitasBoss: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: 在硫火地狱使用 [i:Clamity/ClamitasSummoningItem]
-		DespawnMessage: "[c/FFD700:至尊巨蛤-蛤拉米塔斯回归并隐匿于它的巢穴.]"
+		DespawnMessage: "[c/FFD700:至尊巨蛤-蛤拉米塔斯回归并隐匿于它的巢穴。]"
 	}
 }
 
@@ -14,7 +14,7 @@ PyrogenBoss: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: 在沙漠使用 [i:Clamity/PyroKey]
-		DespawnMessage: "[c/FFD700:热源之灵再次回到灼热的湖中]"
+		DespawnMessage: "[c/FFD700:热源之灵再次回到灼热的湖中。]"
 	}
 }
 
@@ -31,7 +31,7 @@ WallOfBronze: {
 
 	BossChecklistIntegration: {
 		SpawnInfo: 在地狱右键点击 [i:Clamity/AncientConsole] 或使用 [i:Clamity/WoBSummonItem]
-		DespawnMessage: "[c/FFD700:古老的巨大机器继续它无尽的地狱之旅.]"
+		DespawnMessage: "[c/FFD700:古老的巨大机器继续它无尽的地狱之旅。]"
 	}
 }
 

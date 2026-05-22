@@ -1,0 +1,211 @@
+Wings: {
+	MetalWings: {
+		DisplayName: Metal Wings
+		Tooltip:
+			'''
+			Horizontal speed: 10.50
+			Acceleration multiplier: 2.8
+			Excellent vertical speed
+			Flight time: 280
+			Defense of all players on your team is increased by 20 while wearing Frozen Armor
+			Restores part of flight time when taking damage
+			'''
+		HoldShiftTooltip: "  Amount of restored flight time is equal to the damage taken to max life ratio divided by 2"
+	}
+}
+
+SoulOfPyrogen: {
+	DisplayName: Soul of Pyrogen
+	Tooltip:
+		'''
+		10% increased melee and rogue damage
+		True melee and stealth strikes summon spears from the depths of Hell
+		'''
+}
+
+DraculasCharm: {
+	DisplayName: Dracula's Charm
+	Tooltip:
+		'''
+		15% increased rogue damage and +10 maximum stealth
+		Rogue critical strikes steal enemy life
+		Stealth strikes grant 15% critical strike chance and increased lifesteal to non-stealth strikes for 10 seconds
+		Stealth strikes inflict Heavy Bleeding and Armor Crunch, and deal 8% more damage
+		Stealth strikes summon a swarm of lifestealing vampire bats
+		Rogue projectiles explode into homing souls
+		'Possessing the talisman makes you yearn for blood and souls'
+		'''
+}
+
+PyroStone: {
+	DisplayName: Pyro Stone
+	Tooltip:
+		'''
+		50% increased Heat debuff damage
+		Creates a rotating fire shield around you that damages and ignites enemies on contact
+		'One of the ancient relics'
+		'''
+}
+
+HellFlare: {
+	DisplayName: Hell Flare
+	Tooltip:
+		'''
+		All attacks and projectiles inflict [cbuff:OnFire3]
+		Grants immunity to [cbuff:OnFire] and [cbuff:OnFire3]
+		Being above 50% life grants 10% increased crit chance
+		Being below 50% life grants 10% increased damage reduction
+		Grants resistance against cold attacks
+		'''
+}
+
+SupremeBarrier: {
+	DisplayName: Supreme Barrier
+	Tooltip:
+		'''
+		{$Mods.CalamityMod.Common.KnockbackImmunity}
+		Allows the ability to dash, empowered by a cosmic inferno
+		This dash can ram through enemies without taking damage
+		Releases a blast of homing star-bees[TOGGLE] and drenches you in [cbuff:Honey] after taking damage
+		Increases the length of invincibility, with it increasing even more when at low health or taking high damage attacks
+		Reduces damage taken by 25% when below 50% life
+		Absorbs 25% of damage done to players on your team when you are above 25% life
+		[c/aaaaaa:Shift-<right> this item in your inventory to toggle] [i:PanicNecklace] [c/aaaaaa:Panic Necklace's effect]
+		'''
+	ToggleEffect: ", increases movement speed,"
+}
+
+IcicleRing: {
+	DisplayName: Icicle Ring
+	Tooltip:
+		'''
+		Reduces mana cost to zero
+		Wearer constantly takes damage from the pain
+		'''
+}
+
+RedDie: {
+	DisplayName: Red Die
+	Tooltip:
+		'''
+		Increases luck by 20%
+		Multiply your luck by 1.5x
+		'Are you ready for a reroll?'
+		'''
+}
+
+EidolonAmulet: {
+	DisplayName: Eidolon Amulet
+	Tooltip:
+		'''
+		<its placeholder that can be changed after accessory rework>
+		60% increased Water debuff damage
+		Slowly accrue up to three different abyssal spirits
+		Dash to disperse the spirits and have them attack enemies
+		When dispersed [c/CB7AD7:below 50% life], the spirits support you instead
+		The spirits appear in order and have different effects based on color:
+		[c/3CB371: Explodes on impact and inflicts Crush Depth] / [c/CB7AD7:Heals for 8 HP]
+		[c/FF4500: Pierces enemies and inflicts Hellfire] / [c/CB7AD7:Increases defense by 10 temporarily]
+		[c/1E90FF: Hits multiple times and inflicts Hadopelagic Pressure] / [c/CB7AD7:Heals 5% of max HP]
+		Spirits are transparent and silent when visibility is toggled off
+		'''
+}
+
+TreasureOfClamity: {
+	DisplayName: Treasure of Clamity
+	Tooltip:
+		'''
+		Increases fishing skill by 25
+		Increases the yield of potion ingredient fish
+		Increases chance to catch crates and loot-containing fish by 15%
+		Crate catches are 25% more likely to be higher quality, accompanied by visual pearls[TOGGLE]
+		[c/aaaaaa:Shift-<right> this item in your inventory to toggle] [i:CalamityMod/PearlofEnthrallment] [c/aaaaaa:Pearl of Enthrallment's summon]
+		'''
+	ToggleEffect:
+		'''
+
+		Summons a water elemental to protect
+		'''
+}
+
+SeaShell: {
+	DisplayName: Sea Shell
+	Tooltip: Increased defense, damage reduction and movement speed while wet
+}
+
+TheSubcommunity: {
+	DisplayName: The Subcommunity
+	Tooltip:
+		'''
+		[STATS]
+		'The part of The (Calamity) Community'
+		'Has own its own specialization'
+		[c/B00BA5:Thank you to all of my supporters who made this addon a reality!]
+		'''
+	StatsList:
+		'''
+		Increases mining speed by {0}%
+		Increases luck by {1} and fishing power by {2}
+		Increases tile and wall placing speed by {3}% and placing range by {4}
+		Become more powerful as you defeat bosses ({5}% Power)
+		'''
+}
+
+MagicDiamond: {
+	DisplayName: Magic Diamond
+	Tooltip:
+		'''
+		Dealing magic damage creates a small barrier
+		Each magic attack adds a small amount of durability to the barrier
+		The barrier can store up to 20 durability
+		'''
+}
+
+SharpAmethyst: {
+	DisplayName: Sharp Amethyst
+	Tooltip:
+		'''
+		Shooting an arrow has a chance to create an extra gem arrow
+		Gem arrows deal 20% of the arrow's damage
+		'''
+}
+
+BlightedSpyglass: {
+	DisplayName: Blighted Spyglass
+	Tooltip:
+		'''
+		+1 max sentry
+		Sentries inflict a [cbuff:CalamityMod/BrimstoneFlames]
+		'''
+}
+
+CyanPearl: {
+	DisplayName: Cyan Pearl
+	Tooltip:
+		'''
+		+7% summon damage
+		Halves the summon damage penalty for sentries
+		'''
+	HoldShiftTooltip:
+		'''
+		  When holding non-summon/non-average weapon sentries will deal 0.875x damage instead of 0.75x
+		  Also not applies penalty if holding classless weapons or active Old One's Army
+		'''
+}
+
+SkullOfTheBloodGod: {
+	DisplayName: Skull of the Blood God
+	Tooltip:
+		'''
+		15% increased damage and 13% increased critical strike chance
+		Critical strikes explode, causing nearby enemies to ignite with [cbuff:CalamityMod/BrimstoneFlames]
+		Halves enemy contact damage with a 20 second cooldown[TOGGLE]
+		Reduces damage taken from [cbuff:CalamityMod/BrimstoneFlames] by 50%
+		[c/aaaaaa:Shift-<right> this item in your inventory to toggle] [i:CalamityMod/VoidofCalamity] [c/aaaaaa:Void of Calamity's rain effect]
+		'''
+	ToggleEffect:
+		'''
+
+		Brimstone fire rains down after getting hit
+		'''
+}

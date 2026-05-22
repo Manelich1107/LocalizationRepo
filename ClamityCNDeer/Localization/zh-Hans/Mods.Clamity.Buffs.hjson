@@ -20,7 +20,7 @@ WarCleave: {
 
 ExoBaguetteBuff: {
 	DisplayName: 星流法棍
-	Description: "[c/04c000:'你好星流' ~WitherTaco]"
+	Description: "[c/04c000:'星流Bonjour' ~WitherTaco]"
 }
 
 BrimChairBuff: {

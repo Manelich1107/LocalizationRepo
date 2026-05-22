@@ -8,24 +8,14 @@ ClamitousPearl: {
 	Tooltip: “蚌” 视群雄的时候到了！
 }
 
-CoreOfFlame: {
-	DisplayName: 火焰核心
-	Tooltip: ""
-}
-
-EssenceOfFlame: {
-	DisplayName: 火焰精华
-	Tooltip: 来自炎热地区的生物的精华
-}
-
 EnchantedMetal: {
 	DisplayName: 寒狱锭
 	Tooltip: 注入泰拉瑞亚的灵魂
 }
 
 MetalFeather: {
-	Tooltip: ""
 	DisplayName: 金属羽毛
+	Tooltip: ""
 }
 
 RarePlanteraFruit: {
