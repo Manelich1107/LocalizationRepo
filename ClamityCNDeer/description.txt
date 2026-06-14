@@ -1,9 +1,9 @@
-Clamity（灾蛤）汉化Mod
+Cataclysm灾变（原Clamity灾蛤）汉化Mod
 使用方法
-1.同时订阅Clamity Mod和本Mod（如果开了炼狱模式，还要订阅[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363192023&searchtext=%E7%81%BE%E5%8E%84%E4%B8%AD%E6%96%87]灾厄炼狱中文字体补充[/url]）
-2.进入tml，在模组管理中同时启用上述mod
+1.同时订阅Cataclysm Mod (Clamity Addon)和本Mod（如果开了炼狱模式，还要订阅[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3363192023&searchtext=%E7%81%BE%E5%8E%84%E4%B8%AD%E6%96%87]灾厄炼狱中文字体补充[/url]）
+2.进入游戏后，在模组管理中同时启用上述mod
 
-对Clamity mod进行全面汉化
+对Cataclysm灾变，也就是曾经的Clamity灾蛤进行全面汉化
 问题反馈可加Q群：895423665
 
 如果对你有帮助，请点个免费的赞，让更多人可以看到并使用本模组，感谢

@@ -1,6 +1,6 @@
-displayName = Clamity(灾蛤)汉化包
+displayName = Cataclysm灾变汉化包
 author = Deer, Pudd1ng
-version = 5.22
+version = 6.14
 modReferences = Clamity, ClamityMusic
 translationMod = true
 side = NoSync

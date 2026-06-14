@@ -197,15 +197,17 @@ SkullOfTheBloodGod: {
 	DisplayName: 血神之颅
 	Tooltip:
 		'''
-		伤害提升15%且暴击率提升13%
-		暴击会爆炸，使附近敌人被[cbuff:CalamityMod/BrimstoneFlames]点燃
-		每20秒冷却时间减半敌人接触伤害[TOGGLE]
-		受到[cbuff:CalamityMod/BrimstoneFlames]的伤害降低50%
-		[c/aaaaaa:在物品栏中Shift-右键点击此物品来切换][i:CalamityMod/VoidofCalamity][c/aaaaaa:灾劫虚空的硫磺火雨效果]
+		伤害提高15%，魔法暴击率提高7%
+		最大魔力值+20
+		在头顶召唤一个虚像，在你消耗魔力时将其储存，最多可储存600点魔力
+		虚像会偶尔脉动，恢复25点魔力；且储存的魔力越多，脉动越频繁
+		当受到攻击时，虚像会将所有储存的魔力释放为复仇之魂追击敌人
+		若关闭可见性效果，虚像将变为透明且无声
+		暴击会对敌人施加[cbuff:CalamityMod/Bane]，其效果强度随你的暴击率提升大幅增加
+		当敌人被暴击命中时，会将其身上所有弱于你的[cbuff:CalamityMod/Bane]减益效果扩散至附近敌人
+		暴击每携带一个敌人身上的减益效果，额外造成3%伤害
+		[TOGGLE]
+		[c/aaaaaa:在背包中按Shift-<right>右键该物品以切换][i:CalamityMod/VoidofCalamity][c/aaaaaa:灾劫虚空的硫磺火雨效果]
 		'''
-	ToggleEffect:
-		'''
-			
-		被击中时会使硫磺火雨从天而降
-		'''
+	ToggleEffect: 无敌时会使硫磺火雨从天而降
 }
